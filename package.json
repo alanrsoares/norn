@@ -1,0 +1,19 @@
+{
+  "name": "norn",
+  "version": "0.1.1",
+  "description": "A distributed version managemer for front-end packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanrsoares/norn.git"
+  },
+  "author": "Alan Soares <alan.soares@xero.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanrsoares/norn/issues"
+  },
+  "homepage": "https://github.com/alanrsoares/norn#readme"
+}
