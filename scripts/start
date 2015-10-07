@@ -1,4 +1,6 @@
 #!/bin/bash
-rm -rf ./build
-./node_modules/.bin/babel src --no-comments -qd ./build
-node ./build
+BUILD_PATH=./build
+
+rm -rf $BUILD_PATH
+./node_modules/.bin/babel src --no-comments -qd $BUILD_PATH
+node $BUILD_PATH
