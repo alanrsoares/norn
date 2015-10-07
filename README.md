@@ -2,4 +2,4 @@
 
 Distributed version management for front-end packages
 
-![alt tag](/norns.png)
+![alt tag](/norns.jpg)
